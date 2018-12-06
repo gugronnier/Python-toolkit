@@ -9,3 +9,5 @@ As exemple, you can use it to compare some leaked databases and extract only new
 
 Just a small script to convert xlsx datasheet into csv file in order to reuse it in other tools.
 As exemple, you can use it in order to prepare a malware report file coming from a detection tool before add it into the MISP platform
+
+## Work in progress for other description
