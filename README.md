@@ -11,3 +11,10 @@ Just a small script to convert xlsx datasheet into csv file in order to reuse it
 As exemple, you can use it in order to prepare a malware report file coming from a detection tool before add it into the MISP platform
 
 ## Work in progress for other description
+
+
+## Contributors
+
+| Contributors | Contact address | Employer | Position |
+|:-----------:|:------------:|:------------:|:------------:|
+| Guillaume Gronnier | <gglyon769@gmail.com> | CEIS Cyberdefense | Cyber Thread Intelligence Consultant
